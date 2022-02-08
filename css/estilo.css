@@ -1,3 +1,13 @@
+/**
+    Sergio Matamoros Delgado
+*/
+body {
+    /**
+        sobreescribimos estilos....
+    
+    margin: 0px !important;
+    padding: 0px !important;*/
+}
 nav img {
     width: 200px;
 }
